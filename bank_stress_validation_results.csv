@@ -1,0 +1,7 @@
+period,n_defaults,auc_historical,auc_current_regime,gini_historical,gini_current_regime,separation_historical,separation_current
+2003-2006 (Pre-Crisis),92,0.6279,0.5868,0.2559,0.1735,5.29,3.07
+2007-2009 (Crisis Peak),2668,0.8788,0.8271,0.7577,0.6543,24.76,16.19
+2010-2013 (Aftermath),1457,0.9474,0.8686,0.8947,0.7372,28.15,15.7
+2014-2019 (Recovery),225,0.8597,0.7138,0.7194,0.4276,24.66,10.41
+2020-2022 (COVID/Rates),45,0.7554,0.7574,0.5108,0.5147,7.03,6.3
+2023 (SVB Era),20,0.5873,0.5864,0.1745,0.1729,-1.38,0.41

@@ -1,0 +1,13 @@
+# Large data files — too big for GitHub
+bank_stress_historical_2003_2023.csv
+bank_stress_backtest.csv
+bank_stress.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# System files
+.DS_Store
+*.pyc
+bank_stress_backtest_sample.csv

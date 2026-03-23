@@ -1,0 +1,11 @@
+ratio,full_name,historical_weight,current_regime_weight,raw_coefficient,stress_direction,floored,capped
+LEVERAGE_RATIO,Leverage Ratio,16.7,10.0,-1.6722,LOW,False,False
+TEXAS_RATIO,Texas Ratio,13.1,10.0,1.3109,HIGH,False,False
+SECURITIES_RATIO,Securities Ratio,7.3,10.0,-0.7321,HIGH,False,False
+UNINSURED_DEP_RATIO,Uninsured Deposits,5.0,10.0,0.4943,HIGH,False,False
+ROA,Return on Assets,20.0,10.0,-3.7984,LOW,False,True
+LTD_RATIO,Loan-to-Deposit,5.0,10.0,0.0238,HIGH,False,False
+CRE_RATIO,CRE Concentration,15.2,10.0,1.5283,HIGH,False,False
+NIM_RATIO,Net Interest Margin,5.0,10.0,-0.0118,LOW,False,False
+CASH_RATIO,Cash Ratio,7.8,10.0,-0.7811,LOW,False,False
+BORROW_RATIO,Borrowings Ratio,5.0,10.0,0.2142,HIGH,False,False
