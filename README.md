@@ -224,7 +224,7 @@ The Current Regime Score partially corrects this — ROA weight drops from
 20% to 10%, uninsured deposits doubles from 5% to 10% — but even equal
 weights could not fully override SVB's genuine profitability signal.
 
-![SVB Score Decomposition](svb_decomposition.png)
+![SVB Score Decomposition](visualizations/svb_decomposition.png)
 
 ### Real-World Validation
 
@@ -281,8 +281,8 @@ The Historical Score shows AUC of 0.587 — barely above random — for
 credit-quality failures cannot reliably predict rate-risk failures.
 This is precisely the motivation for the Current Regime Score.
 
-![Validation Dashboard](validation_dashboard_final.png)
-![Backtest Chart](backtest_chart_full.png)
+![Validation Dashboard](visualizations/validation_dashboard_final.png)
+![Backtest Chart](visualizations/backtest_chart_full.png)
 
 ---
 
