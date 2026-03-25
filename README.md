@@ -105,6 +105,16 @@ by US bank regulators (FDIC, OCC, Federal Reserve):
 | **L**iquidity | Cash Ratio, Loan-to-Deposit, Borrowings Ratio |
 | **S**ensitivity to Market Risk | Securities Ratio, Uninsured Deposits |
 
+### Ratio Correlation Matrix
+
+The 10 ratios show low pairwise correlations — confirming each ratio
+captures a genuinely distinct risk dimension. The one notable exception
+is Securities Ratio vs Loan-to-Deposit at -0.73, reflecting a balance
+sheet tradeoff: banks that lend heavily tend to hold fewer securities.
+Both ratios were retained as they capture different stress mechanisms.
+
+![Correlation Matrix](visualizations/correlation_matrix.png)
+
 The Leverage Ratio threshold (≥ 5% for well-capitalized) and CRE
 Concentration threshold (≤ 300%) are both grounded in **Basel III**
 capital adequacy standards and 2006 FDIC/OCC joint guidance respectively.
